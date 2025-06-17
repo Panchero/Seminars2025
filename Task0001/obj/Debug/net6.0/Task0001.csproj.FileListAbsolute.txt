@@ -1,0 +1,15 @@
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/bin/Debug/net6.0/Task0001
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/bin/Debug/net6.0/Task0001.deps.json
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/bin/Debug/net6.0/Task0001.runtimeconfig.json
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/bin/Debug/net6.0/Task0001.dll
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/bin/Debug/net6.0/Task0001.pdb
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/Task0001.csproj.AssemblyReference.cache
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/Task0001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/Task0001.AssemblyInfoInputs.cache
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/Task0001.AssemblyInfo.cs
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/Task0001.csproj.CoreCompileInputs.cache
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/Task0001.dll
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/refint/Task0001.dll
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/Task0001.pdb
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/Task0001.genruntimeconfig.cache
+/Users/semenpancenko/Documents/GB/2025C#/Seminars2025/Task0001/obj/Debug/net6.0/ref/Task0001.dll
